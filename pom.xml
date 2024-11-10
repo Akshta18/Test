@@ -27,7 +27,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.example.Hello</mainClass> <!-- Use com.example.Hello if it's in a package -->
+                        <mainClass>Hello</mainClass> <!-- Use com.example.Hello if it's in a package -->
                     </manifest>
                 </archive>
             </configuration>
